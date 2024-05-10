@@ -50,6 +50,5 @@
 <h3>💻 DEV's log 💻<h3>
 <div style="display:flex; flex-direction:row;">
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sungwook.log&color=dark)](https://velog.io/@secretcandy/posts)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그아이디)](벨로그링크)
 </div>
 </div>
