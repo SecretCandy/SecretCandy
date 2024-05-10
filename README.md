@@ -49,9 +49,10 @@
 
 <h3>💻 DEV's log 💻<h3>
 <div style="display:flex; flex-direction:row;">
-  <a href="https://velog.io/@sungwook">
+  <a href="https://velog.io/@SecretCandy">
     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
   </a>
+  <br>
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sungwook&color=dark)](https://github.com/sungwook/velog-readme-stats)
 </div>
 </div>
