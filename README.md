@@ -53,6 +53,6 @@
     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
   </a>
   <br>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=SecretCandy&color=dark)](https://velog.io/@SecretCandy)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=SecretCandy)](https://github.com/eungyeole/velog-readme-stats)
 </div>
 </div>
