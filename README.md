@@ -21,5 +21,24 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
+<br>
+
+<h3>🛠️ Tools 🛠️<h3>
+<div style="display:flex; flex-direction:row;">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+</div>
+
+<br>
+
+<h3>💌 Contact 💌<h3>
+<div style="display:flex; flex-direction:row;">
+  <img src="https://img.shields.io/badge/parksw9762@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
+ 
   
 </div>
