@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Sungwook Park</h1>
+<h1>박성욱 Sungwook Park</h1>
 
 <br>
 
