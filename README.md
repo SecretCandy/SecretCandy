@@ -1,4 +1,8 @@
 <div align="center">
+<h1>Sungwook Park</h1>
+
+<br>
+
 <h3>✨ Skills & Platforms ✨<h3>
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -40,6 +44,12 @@
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/parksw9762@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
- 
-  
+
+<br>
+
+<h3>💻 DEV's log 💻<h3>
+<div style="display:flex; flex-direction:row;">
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sungwook.log&color=dark)](https://velog.io/@secretcandy/posts)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그아이디)](벨로그링크)
+</div>
 </div>
