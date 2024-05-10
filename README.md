@@ -3,7 +3,7 @@
 
 <br>
 
-<h3 style="font-size=25px">✨ Skills & Platforms ✨<h3>
+<h3>✨ Skills & Platforms ✨<h3>
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -55,5 +55,5 @@
     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
   </a>
 </div>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=SecretCandy)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=secretcandy)](https://github.com/eungyeole/velog-readme-stats)
 </div>
