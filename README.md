@@ -42,7 +42,9 @@
 
 <h3>💌 Contact 💌<h3>
 <div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/parksw9762@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="parksw9762@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 <br>
