@@ -54,6 +54,6 @@
   <a href="https://velog.io/@secretcandy/posts">
     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
   </a>
+  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=secretcandy&color=dark">
 </div>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=secretcandy)](https://github.com/eungyeole/velog-readme-stats)
 </div>
